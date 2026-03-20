@@ -1,0 +1,844 @@
+Year,State,City,ZipCode,ER_Reason_Code,ER_Reason_Text,Total_ER_Visits
+2021,MA,Agawam,01001,72892002,Normal pregnancy,1
+2021,MA,Springfield,01013,72892002,Normal pregnancy,1
+2021,MA,Holyoke,01040,No Code,Unknown Reason,1
+2021,MA,Palmer,01079,72892002,Normal pregnancy,1
+2021,MA,Westfield,01085,55680006,Drug overdose,1
+2021,MA,Leominster,01453,No Code,Unknown Reason,1
+2021,MA,Worcester,01602,No Code,Unknown Reason,1
+2021,MA,Framingham,01702,No Code,Unknown Reason,1
+2021,MA,Hudson,01749,72892002,Normal pregnancy,1
+2021,MA,Lowell,01851,No Code,Unknown Reason,1
+2021,MA,Lowell,01854,55680006,Drug overdose,2
+2021,MA,Woburn,01890,No Code,Unknown Reason,1
+2021,MA,Lynn,01901,55680006,Drug overdose,1
+2021,MA,Salisbury,01952,No Code,Unknown Reason,1
+2021,MA,Peabody,01960,72892002,Normal pregnancy,1
+2021,MA,Boston,02113,No Code,Unknown Reason,1
+2021,MA,Boston,02116,No Code,Unknown Reason,1
+2021,MA,Boston,02125,72892002,Normal pregnancy,1
+2021,MA,Somerville,02138,No Code,Unknown Reason,1
+2021,MA,Cambridge,02139,No Code,Unknown Reason,1
+2021,MA,Everett,02149,No Code,Unknown Reason,1
+2021,MA,Medford,02155,No Code,Unknown Reason,1
+2021,MA,Quincy,02170,No Code,Unknown Reason,1
+2021,MA,Braintree,02184,No Code,Unknown Reason,1
+2021,MA,Boston,02199,No Code,Unknown Reason,1
+2021,MA,Wellesley,02457,No Code,Unknown Reason,1
+2021,MA,Dennis,02638,No Code,Unknown Reason,1
+2021,MA,West Dennis,02670,No Code,Unknown Reason,1
+2021,MA,Fall River,02721,No Code,Unknown Reason,2
+2021,MA,Attleboro,02861,No Code,Unknown Reason,1
+2021,MA,Natick,Unknown,55680006,Drug overdose,2
+2021,MA,Natick,Unknown,No Code,Unknown Reason,2
+2021,MA,Acton,Unknown,195967001,Asthma,1
+2021,MA,Attleboro,Unknown,88805009,Chronic congestive heart failure (disorder),1
+2021,MA,Belmont,Unknown,No Code,Unknown Reason,1
+2021,MA,Burlington,Unknown,55680006,Drug overdose,1
+2021,MA,Canton,Unknown,No Code,Unknown Reason,1
+2021,MA,Carlisle,Unknown,No Code,Unknown Reason,1
+2021,MA,Carver,Unknown,No Code,Unknown Reason,1
+2021,MA,Duxbury,Unknown,No Code,Unknown Reason,1
+2021,MA,Fairhaven,Unknown,No Code,Unknown Reason,1
+2021,MA,Greenfield,Unknown,55680006,Drug overdose,1
+2021,MA,Heath,Unknown,No Code,Unknown Reason,1
+2021,MA,Holbrook,Unknown,72892002,Normal pregnancy,1
+2021,MA,Holliston,Unknown,72892002,Normal pregnancy,1
+2021,MA,Holyoke,Unknown,195967001,Asthma,1
+2021,MA,Lakeville,Unknown,No Code,Unknown Reason,1
+2021,MA,Lowell,Unknown,72892002,Normal pregnancy,1
+2021,MA,Mattapoisett,Unknown,72892002,Normal pregnancy,1
+2021,MA,Milton,Unknown,72892002,Normal pregnancy,1
+2021,MA,Northwest Harwich,Unknown,No Code,Unknown Reason,1
+2021,MA,Plymouth,Unknown,No Code,Unknown Reason,1
+2021,MA,Salem,Unknown,72892002,Normal pregnancy,1
+2021,MA,Sandwich,Unknown,No Code,Unknown Reason,1
+2021,MA,Shrewsbury,Unknown,No Code,Unknown Reason,1
+2021,MA,South Amherst,Unknown,No Code,Unknown Reason,1
+2021,MA,Southborough,Unknown,No Code,Unknown Reason,1
+2021,MA,Sutton,Unknown,No Code,Unknown Reason,1
+2021,MA,Taunton,Unknown,233678006,Childhood asthma,1
+2021,MA,Wales,Unknown,55680006,Drug overdose,1
+2021,MA,Watertown,Unknown,No Code,Unknown Reason,1
+2021,MA,Westport,Unknown,No Code,Unknown Reason,1
+2021,MA,Yarmouth,Unknown,No Code,Unknown Reason,1
+2020,MA,Holyoke,01040,No Code,Unknown Reason,1
+2020,MA,Palmer,01079,No Code,Unknown Reason,1
+2020,MA,Springfield,01103,233678006,Childhood asthma,1
+2020,MA,Longmeadow,01106,91302008,Sepsis (disorder),1
+2020,MA,Springfield,01106,74400008,Appendicitis,1
+2020,MA,North Adams,01247,72892002,Normal pregnancy,1
+2020,MA,Worcester,01604,No Code,Unknown Reason,1
+2020,MA,Hopedale,01747,72892002,Normal pregnancy,1
+2020,MA,Hudson,01749,No Code,Unknown Reason,1
+2020,MA,Lawrence,01840,No Code,Unknown Reason,1
+2020,MA,Methuen,01844,No Code,Unknown Reason,1
+2020,MA,Lowell,01854,72892002,Normal pregnancy,1
+2020,MA,Lynn,01902,72892002,Normal pregnancy,1
+2020,MA,Danvers,01923,No Code,Unknown Reason,1
+2020,MA,Gloucester,01930,No Code,Unknown Reason,1
+2020,MA,Bellingham,02019,No Code,Unknown Reason,1
+2020,MA,Hingham,02043,72892002,Normal pregnancy,1
+2020,MA,Sharon,02067,No Code,Unknown Reason,1
+2020,MA,Boston,02116,No Code,Unknown Reason,2
+2020,MA,Boston,02119,No Code,Unknown Reason,1
+2020,MA,Everett,02148,72892002,Normal pregnancy,1
+2020,MA,Everett,02148,No Code,Unknown Reason,1
+2020,MA,Boston,02151,No Code,Unknown Reason,1
+2020,MA,Boston,02163,72892002,Normal pregnancy,1
+2020,MA,Quincy,02170,55680006,Drug overdose,2
+2020,MA,Quincy,02170,No Code,Unknown Reason,1
+2020,MA,Weymouth,02190,No Code,Unknown Reason,1
+2020,MA,Lexington,02420,72892002,Normal pregnancy,1
+2020,MA,Waltham,02453,72892002,Normal pregnancy,1
+2020,MA,Newton,02462,No Code,Unknown Reason,2
+2020,MA,Belmont,02472,55680006,Drug overdose,1
+2020,MA,Cambridge,02472,72892002,Normal pregnancy,1
+2020,MA,East Dennis,02641,No Code,Unknown Reason,1
+2020,MA,Fall River,02721,No Code,Unknown Reason,1
+2020,MA,Bellingham,Unknown,No Code,Unknown Reason,1
+2020,MA,Belmont,Unknown,95417003,Primary fibromyalgia syndrome,1
+2020,MA,Boston,Unknown,No Code,Unknown Reason,1
+2020,MA,Bourne,Unknown,162573006,Suspected lung cancer (situation),1
+2020,MA,Canton,Unknown,72892002,Normal pregnancy,1
+2020,MA,Canton,Unknown,No Code,Unknown Reason,1
+2020,MA,Charlton,Unknown,No Code,Unknown Reason,1
+2020,MA,Chelmsford,Unknown,72892002,Normal pregnancy,1
+2020,MA,Chicopee,Unknown,No Code,Unknown Reason,1
+2020,MA,Fairhaven,Unknown,233678006,Childhood asthma,1
+2020,MA,Fall River,Unknown,No Code,Unknown Reason,1
+2020,MA,Greenfield,Unknown,55680006,Drug overdose,1
+2020,MA,Halifax,Unknown,72892002,Normal pregnancy,1
+2020,MA,Holyoke,Unknown,195967001,Asthma,1
+2020,MA,Mansfield,Unknown,No Code,Unknown Reason,1
+2020,MA,Methuen,Unknown,74400008,Appendicitis,1
+2020,MA,Millbury,Unknown,No Code,Unknown Reason,1
+2020,MA,Needham,Unknown,55680006,Drug overdose,1
+2020,MA,Norfolk,Unknown,No Code,Unknown Reason,1
+2020,MA,Pembroke,Unknown,No Code,Unknown Reason,1
+2020,MA,Rehoboth,Unknown,No Code,Unknown Reason,1
+2020,MA,Seekonk,Unknown,No Code,Unknown Reason,1
+2020,MA,Shrewsbury,Unknown,72892002,Normal pregnancy,1
+2020,MA,Southborough,Unknown,No Code,Unknown Reason,1
+2020,MA,Westford,Unknown,No Code,Unknown Reason,1
+2019,MA,Holyoke,01040,55680006,Drug overdose,2
+2019,MA,Holyoke,01040,162573006,Suspected lung cancer (situation),1
+2019,MA,Holyoke,01040,91302008,Sepsis (disorder),1
+2019,MA,Northampton,01062,No Code,Unknown Reason,1
+2019,MA,Springfield,01128,72892002,Normal pregnancy,1
+2019,MA,North Adams,01247,72892002,Normal pregnancy,1
+2019,MA,South Deerfield,01373,55680006,Drug overdose,1
+2019,MA,Worcester,01604,72892002,Normal pregnancy,1
+2019,MA,Framingham,01702,72892002,Normal pregnancy,1
+2019,MA,Bedford,01730,72892002,Normal pregnancy,1
+2019,MA,Lowell,01851,55680006,Drug overdose,2
+2019,MA,Lowell,01851,No Code,Unknown Reason,1
+2019,MA,Lynn,01902,No Code,Unknown Reason,1
+2019,MA,Lynn,01907,95417003,Primary fibromyalgia syndrome,1
+2019,MA,Beverly,01915,No Code,Unknown Reason,1
+2019,MA,Boston,02115,No Code,Unknown Reason,1
+2019,MA,Boston,02116,No Code,Unknown Reason,6
+2019,MA,Boston,02125,72892002,Normal pregnancy,1
+2019,MA,Chelsea,02149,72892002,Normal pregnancy,1
+2019,MA,Boston,02152,55680006,Drug overdose,1
+2019,MA,Plymouth,02360,72892002,Normal pregnancy,1
+2019,MA,Lexington,02420,No Code,Unknown Reason,1
+2019,MA,Brookline,02445,No Code,Unknown Reason,1
+2019,MA,Waltham,02453,No Code,Unknown Reason,1
+2019,MA,Wellesley,02481,No Code,Unknown Reason,1
+2019,MA,Dennis,02638,No Code,Unknown Reason,1
+2019,MA,Taunton,02718,No Code,Unknown Reason,1
+2019,MA,Fall River,02721,No Code,Unknown Reason,1
+2019,MA,Fall River,02790,No Code,Unknown Reason,1
+2019,MA,Dennis,Unknown,195967001,Asthma,2
+2019,MA,Great Barrington,Unknown,233678006,Childhood asthma,2
+2019,MA,Agawam,Unknown,72892002,Normal pregnancy,1
+2019,MA,Amherst,Unknown,No Code,Unknown Reason,1
+2019,MA,Ashby,Unknown,No Code,Unknown Reason,1
+2019,MA,Ashland,Unknown,No Code,Unknown Reason,1
+2019,MA,Attleboro,Unknown,No Code,Unknown Reason,1
+2019,MA,Braintree,Unknown,No Code,Unknown Reason,1
+2019,MA,Burlington,Unknown,55680006,Drug overdose,1
+2019,MA,Canton,Unknown,No Code,Unknown Reason,1
+2019,MA,Carlisle,Unknown,No Code,Unknown Reason,1
+2019,MA,Chelsea,Unknown,72892002,Normal pregnancy,1
+2019,MA,Easton,Unknown,No Code,Unknown Reason,1
+2019,MA,Fairhaven,Unknown,233678006,Childhood asthma,1
+2019,MA,Ludlow,Unknown,195967001,Asthma,1
+2019,MA,Mattapoisett,Unknown,72892002,Normal pregnancy,1
+2019,MA,Middleborough Center,Unknown,No Code,Unknown Reason,1
+2019,MA,Milton,Unknown,No Code,Unknown Reason,1
+2019,MA,Natick,Unknown,55680006,Drug overdose,1
+2019,MA,Natick,Unknown,No Code,Unknown Reason,1
+2019,MA,Northampton,Unknown,No Code,Unknown Reason,1
+2019,MA,Northbridge,Unknown,No Code,Unknown Reason,1
+2019,MA,Plainville,Unknown,No Code,Unknown Reason,1
+2019,MA,Rehoboth,Unknown,No Code,Unknown Reason,1
+2019,MA,Revere,Unknown,No Code,Unknown Reason,1
+2019,MA,Rockport,Unknown,No Code,Unknown Reason,1
+2019,MA,Seekonk,Unknown,72892002,Normal pregnancy,1
+2019,MA,Seekonk,Unknown,No Code,Unknown Reason,1
+2019,MA,Swansea,Unknown,No Code,Unknown Reason,1
+2019,MA,Wayland,Unknown,No Code,Unknown Reason,1
+2019,MA,Whitman,Unknown,72892002,Normal pregnancy,1
+2018,MA,Holyoke,01040,55680006,Drug overdose,1
+2018,MA,Springfield,01103,No Code,Unknown Reason,1
+2018,MA,Longmeadow,01106,72892002,Normal pregnancy,1
+2018,MA,Worcester,01602,No Code,Unknown Reason,1
+2018,MA,Framingham,01702,72892002,Normal pregnancy,1
+2018,MA,Bedford,01730,No Code,Unknown Reason,1
+2018,MA,Lawrence,01841,No Code,Unknown Reason,1
+2018,MA,Methuen,01841,72892002,Normal pregnancy,1
+2018,MA,Lynn,01907,72892002,Normal pregnancy,1
+2018,MA,Beverly,01915,No Code,Unknown Reason,1
+2018,MA,Gloucester,01930,72892002,Normal pregnancy,1
+2018,MA,Gloucester,01930,No Code,Unknown Reason,1
+2018,MA,Wakefield,01940,No Code,Unknown Reason,1
+2018,MA,Salisbury,01952,No Code,Unknown Reason,1
+2018,MA,Franklin,02038,No Code,Unknown Reason,2
+2018,MA,Marshfield,02050,No Code,Unknown Reason,1
+2018,MA,Boston,02115,No Code,Unknown Reason,1
+2018,MA,Boston,02116,No Code,Unknown Reason,2
+2018,MA,Boston,02131,No Code,Unknown Reason,1
+2018,MA,Somerville,02138,No Code,Unknown Reason,2
+2018,MA,Cambridge,02139,No Code,Unknown Reason,1
+2018,MA,Everett,02148,No Code,Unknown Reason,1
+2018,MA,Somerville,02155,No Code,Unknown Reason,1
+2018,MA,Boston,02163,No Code,Unknown Reason,1
+2018,MA,Quincy,02169,No Code,Unknown Reason,1
+2018,MA,Quincy,02170,55680006,Drug overdose,1
+2018,MA,Weymouth,02190,No Code,Unknown Reason,1
+2018,MA,Boston,02215,No Code,Unknown Reason,1
+2018,MA,Brookline,02215,72892002,Normal pregnancy,1
+2018,MA,Brockton,02302,No Code,Unknown Reason,1
+2018,MA,Brockton,02351,No Code,Unknown Reason,1
+2018,MA,Plymouth,02360,65275009,Acute Cholecystitis,1
+2018,MA,Kingston,02364,No Code,Unknown Reason,1
+2018,MA,Brookline,02445,No Code,Unknown Reason,1
+2018,MA,Brookline,02446,72892002,Normal pregnancy,1
+2018,MA,Waltham,02453,No Code,Unknown Reason,1
+2018,MA,Wellesley,02481,No Code,Unknown Reason,1
+2018,MA,Fall River,02721,No Code,Unknown Reason,3
+2018,MA,Somerset,02726,55680006,Drug overdose,1
+2018,MA,Attleboro,02861,72892002,Normal pregnancy,1
+2018,MA,Watertown,Unknown,No Code,Unknown Reason,2
+2018,MA,Amherst,Unknown,No Code,Unknown Reason,1
+2018,MA,Burlington,Unknown,55680006,Drug overdose,1
+2018,MA,Chesterfield,Unknown,No Code,Unknown Reason,1
+2018,MA,Easton,Unknown,No Code,Unknown Reason,1
+2018,MA,Halifax,Unknown,72892002,Normal pregnancy,1
+2018,MA,Holliston,Unknown,72892002,Normal pregnancy,1
+2018,MA,Holliston,Unknown,No Code,Unknown Reason,1
+2018,MA,Lakeville,Unknown,195967001,Asthma,1
+2018,MA,Lawrence,Unknown,No Code,Unknown Reason,1
+2018,MA,Lunenburg,Unknown,No Code,Unknown Reason,1
+2018,MA,Marblehead,Unknown,72892002,Normal pregnancy,1
+2018,MA,Mashpee,Unknown,No Code,Unknown Reason,1
+2018,MA,Northampton,Unknown,No Code,Unknown Reason,1
+2018,MA,Pepperell,Unknown,No Code,Unknown Reason,1
+2018,MA,Salem,Unknown,No Code,Unknown Reason,1
+2018,MA,Scituate,Unknown,No Code,Unknown Reason,1
+2018,MA,South Amherst,Unknown,No Code,Unknown Reason,1
+2018,MA,Swansea,Unknown,128613002,Seizure disorder,1
+2018,MA,Taunton,Unknown,No Code,Unknown Reason,1
+2018,MA,Wales,Unknown,55680006,Drug overdose,1
+2018,MA,Whitman,Unknown,233678006,Childhood asthma,1
+2018,MA,Whitman,Unknown,72892002,Normal pregnancy,1
+2017,MA,Palmer,01009,No Code,Unknown Reason,1
+2017,MA,Holyoke,01040,55680006,Drug overdose,1
+2017,MA,Westfield,01085,No Code,Unknown Reason,1
+2017,MA,South Deerfield,01373,55680006,Drug overdose,1
+2017,MA,Hudson,01749,72892002,Normal pregnancy,1
+2017,MA,Marlborough,01752,No Code,Unknown Reason,1
+2017,MA,Woburn,01801,No Code,Unknown Reason,1
+2017,MA,Lowell,01851,No Code,Unknown Reason,1
+2017,MA,Woburn,01890,72892002,Normal pregnancy,1
+2017,MA,Woburn,01890,No Code,Unknown Reason,1
+2017,MA,Salisbury,01952,No Code,Unknown Reason,1
+2017,MA,Boston,02113,No Code,Unknown Reason,1
+2017,MA,Boston,02116,No Code,Unknown Reason,2
+2017,MA,Boston,02120,No Code,Unknown Reason,1
+2017,MA,Boston,02126,No Code,Unknown Reason,1
+2017,MA,Boston,02127,No Code,Unknown Reason,1
+2017,MA,Boston,02129,72892002,Normal pregnancy,1
+2017,MA,Boston,02130,72892002,Normal pregnancy,1
+2017,MA,Somerville,02138,No Code,Unknown Reason,3
+2017,MA,Cambridge,02141,No Code,Unknown Reason,1
+2017,MA,Everett,02149,No Code,Unknown Reason,1
+2017,MA,Boston,02152,55680006,Drug overdose,1
+2017,MA,Braintree,02184,No Code,Unknown Reason,2
+2017,MA,Boston,02199,233678006,Childhood asthma,1
+2017,MA,Boston,02199,72892002,Normal pregnancy,1
+2017,MA,Brockton,02301,72892002,Normal pregnancy,1
+2017,MA,Plymouth,02360,72892002,Normal pregnancy,1
+2017,MA,Plymouth,02360,No Code,Unknown Reason,1
+2017,MA,Waltham,02453,195967001,Asthma,1
+2017,MA,Brookline,02467,74400008,Appendicitis,1
+2017,MA,East Dennis,02641,No Code,Unknown Reason,1
+2017,MA,Fall River,02721,No Code,Unknown Reason,4
+2017,MA,Somerset,02726,No Code,Unknown Reason,1
+2017,MA,Agawam,Unknown,72892002,Normal pregnancy,1
+2017,MA,Amherst,Unknown,No Code,Unknown Reason,1
+2017,MA,Attleboro,Unknown,No Code,Unknown Reason,1
+2017,MA,Bellingham,Unknown,No Code,Unknown Reason,1
+2017,MA,Bourne,Unknown,No Code,Unknown Reason,1
+2017,MA,Burlington,Unknown,55680006,Drug overdose,1
+2017,MA,Dennis,Unknown,195967001,Asthma,1
+2017,MA,Essex,Unknown,No Code,Unknown Reason,1
+2017,MA,Great Barrington,Unknown,233678006,Childhood asthma,1
+2017,MA,Halifax,Unknown,72892002,Normal pregnancy,1
+2017,MA,Hatfield,Unknown,No Code,Unknown Reason,1
+2017,MA,Lancaster,Unknown,No Code,Unknown Reason,1
+2017,MA,Lowell,Unknown,72892002,Normal pregnancy,1
+2017,MA,Marblehead,Unknown,No Code,Unknown Reason,1
+2017,MA,Mashpee,Unknown,No Code,Unknown Reason,1
+2017,MA,Medford,Unknown,No Code,Unknown Reason,1
+2017,MA,Middleborough Center,Unknown,No Code,Unknown Reason,1
+2017,MA,Rehoboth,Unknown,No Code,Unknown Reason,1
+2017,MA,Southborough,Unknown,233678006,Childhood asthma,1
+2017,MA,Sudbury,Unknown,No Code,Unknown Reason,1
+2017,MA,Sutton,Unknown,No Code,Unknown Reason,1
+2017,MA,Swansea,Unknown,128613002,Seizure disorder,1
+2017,MA,Watertown,Unknown,No Code,Unknown Reason,1
+2017,MA,West Springfield,Unknown,No Code,Unknown Reason,1
+2017,MA,Westwood,Unknown,72892002,Normal pregnancy,1
+2017,MA,Whitman,Unknown,233678006,Childhood asthma,1
+2016,MA,Palmer,01079,72892002,Normal pregnancy,1
+2016,MA,Westfield,01085,55680006,Drug overdose,1
+2016,MA,Springfield,01118,No Code,Unknown Reason,2
+2016,MA,South Deerfield,01373,55680006,Drug overdose,2
+2016,MA,Clinton,01510,72892002,Normal pregnancy,1
+2016,MA,Worcester,01604,No Code,Unknown Reason,1
+2016,MA,Bedford,01730,72892002,Normal pregnancy,1
+2016,MA,Woburn,01890,No Code,Unknown Reason,1
+2016,MA,Lynn,01901,No Code,Unknown Reason,1
+2016,MA,Lynn,01906,No Code,Unknown Reason,1
+2016,MA,Lynn,01907,95417003,Primary fibromyalgia syndrome,1
+2016,MA,Topsfield,01983,No Code,Unknown Reason,1
+2016,MA,Bellingham,02019,No Code,Unknown Reason,1
+2016,MA,Dedham,02026,No Code,Unknown Reason,1
+2016,MA,Boston,02125,72892002,Normal pregnancy,2
+2016,MA,Everett,02149,No Code,Unknown Reason,1
+2016,MA,Quincy,02170,55680006,Drug overdose,1
+2016,MA,Quincy,02171,No Code,Unknown Reason,4
+2016,MA,Brookline,02215,72892002,Normal pregnancy,1
+2016,MA,Brockton,02301,233678006,Childhood asthma,1
+2016,MA,Brockton,02302,No Code,Unknown Reason,1
+2016,MA,Waltham,02453,72892002,Normal pregnancy,1
+2016,MA,Cambridge,02472,72892002,Normal pregnancy,1
+2016,MA,Waltham,02472,72892002,Normal pregnancy,1
+2016,MA,Arlington,02476,72892002,Normal pregnancy,1
+2016,MA,Fall River,02721,No Code,Unknown Reason,1
+2016,MA,Attleboro,02861,72892002,Normal pregnancy,1
+2016,MA,Raynham,Unknown,88805009,Chronic congestive heart failure (disorder),4
+2016,MA,Scituate,Unknown,No Code,Unknown Reason,3
+2016,MA,Attleboro,Unknown,No Code,Unknown Reason,2
+2016,MA,Agawam,Unknown,72892002,Normal pregnancy,1
+2016,MA,Amherst,Unknown,No Code,Unknown Reason,1
+2016,MA,Attleboro,Unknown,88805009,Chronic congestive heart failure (disorder),1
+2016,MA,Bellingham,Unknown,No Code,Unknown Reason,1
+2016,MA,Bourne,Unknown,No Code,Unknown Reason,1
+2016,MA,Burlington,Unknown,55680006,Drug overdose,1
+2016,MA,Burlington,Unknown,No Code,Unknown Reason,1
+2016,MA,Canton,Unknown,72892002,Normal pregnancy,1
+2016,MA,Chelsea,Unknown,72892002,Normal pregnancy,1
+2016,MA,Chelsea,Unknown,No Code,Unknown Reason,1
+2016,MA,Concord,Unknown,No Code,Unknown Reason,1
+2016,MA,Granby,Unknown,No Code,Unknown Reason,1
+2016,MA,Hudson,Unknown,No Code,Unknown Reason,1
+2016,MA,Lancaster,Unknown,No Code,Unknown Reason,1
+2016,MA,Milford,Unknown,No Code,Unknown Reason,1
+2016,MA,Milton,Unknown,72892002,Normal pregnancy,1
+2016,MA,Natick,Unknown,55680006,Drug overdose,1
+2016,MA,Northwest Harwich,Unknown,No Code,Unknown Reason,1
+2016,MA,Salem,Unknown,72892002,Normal pregnancy,1
+2016,MA,Salem,Unknown,No Code,Unknown Reason,1
+2016,MA,Southborough,Unknown,233678006,Childhood asthma,1
+2016,MA,Southborough,Unknown,No Code,Unknown Reason,1
+2016,MA,Wales,Unknown,55680006,Drug overdose,1
+2016,MA,Wales,Unknown,No Code,Unknown Reason,1
+2016,MA,Whitman,Unknown,72892002,Normal pregnancy,1
+2015,MA,Holyoke,01040,55680006,Drug overdose,1
+2015,MA,Holyoke,01040,72892002,Normal pregnancy,1
+2015,MA,Holyoke,01040,No Code,Unknown Reason,1
+2015,MA,Northampton,01062,No Code,Unknown Reason,1
+2015,MA,Leominster,01453,No Code,Unknown Reason,1
+2015,MA,Southbridge,01550,No Code,Unknown Reason,1
+2015,MA,Worcester,01583,No Code,Unknown Reason,1
+2015,MA,Worcester,01608,233678006,Childhood asthma,1
+2015,MA,Framingham,01701,No Code,Unknown Reason,1
+2015,MA,Framingham,01702,72892002,Normal pregnancy,1
+2015,MA,Bedford,01730,72892002,Normal pregnancy,1
+2015,MA,Methuen,01844,No Code,Unknown Reason,1
+2015,MA,Lowell,01851,55680006,Drug overdose,2
+2015,MA,Lynn,01901,No Code,Unknown Reason,1
+2015,MA,Lynn,01906,No Code,Unknown Reason,1
+2015,MA,Beverly,01915,72892002,Normal pregnancy,1
+2015,MA,Gloucester,01930,72892002,Normal pregnancy,1
+2015,MA,Bellingham,02019,72892002,Normal pregnancy,1
+2015,MA,Dedham,02026,No Code,Unknown Reason,1
+2015,MA,Walpole,02081,No Code,Unknown Reason,1
+2015,MA,Boston,02116,No Code,Unknown Reason,5
+2015,MA,Boston,02119,72892002,Normal pregnancy,1
+2015,MA,Boston,02129,No Code,Unknown Reason,1
+2015,MA,Boston,02135,72892002,Normal pregnancy,1
+2015,MA,Cambridge,02139,72892002,Normal pregnancy,1
+2015,MA,Boston,02152,55680006,Drug overdose,2
+2015,MA,Quincy,02171,No Code,Unknown Reason,12
+2015,MA,Braintree,02184,No Code,Unknown Reason,2
+2015,MA,Boston,02199,No Code,Unknown Reason,2
+2015,MA,Boston,02199,72892002,Normal pregnancy,1
+2015,MA,Brockton,02302,No Code,Unknown Reason,1
+2015,MA,Brookline,02445,72892002,Normal pregnancy,1
+2015,MA,Waltham,02453,72892002,Normal pregnancy,1
+2015,MA,Newton,02462,72892002,Normal pregnancy,1
+2015,MA,Newton,02462,No Code,Unknown Reason,1
+2015,MA,Shirley,Unknown,No Code,Unknown Reason,2
+2015,MA,Amherst,Unknown,No Code,Unknown Reason,1
+2015,MA,Attleboro,Unknown,72892002,Normal pregnancy,1
+2015,MA,Attleboro,Unknown,88805009,Chronic congestive heart failure (disorder),1
+2015,MA,Braintree,Unknown,91302008,Sepsis (disorder),1
+2015,MA,Burlington,Unknown,74400008,Appendicitis,1
+2015,MA,Charlton,Unknown,No Code,Unknown Reason,1
+2015,MA,Chelmsford,Unknown,72892002,Normal pregnancy,1
+2015,MA,Chesterfield,Unknown,No Code,Unknown Reason,1
+2015,MA,Clinton,Unknown,No Code,Unknown Reason,1
+2015,MA,Cohasset,Unknown,72892002,Normal pregnancy,1
+2015,MA,Concord,Unknown,No Code,Unknown Reason,1
+2015,MA,Easton,Unknown,No Code,Unknown Reason,1
+2015,MA,Holbrook,Unknown,72892002,Normal pregnancy,1
+2015,MA,Holliston,Unknown,No Code,Unknown Reason,1
+2015,MA,Lakeville,Unknown,No Code,Unknown Reason,1
+2015,MA,Lowell,Unknown,72892002,Normal pregnancy,1
+2015,MA,Mansfield Center,Unknown,No Code,Unknown Reason,1
+2015,MA,Middleborough Center,Unknown,No Code,Unknown Reason,1
+2015,MA,Milford,Unknown,No Code,Unknown Reason,1
+2015,MA,Natick,Unknown,55680006,Drug overdose,1
+2015,MA,Needham,Unknown,55680006,Drug overdose,1
+2015,MA,Newburyport,Unknown,No Code,Unknown Reason,1
+2015,MA,Pembroke,Unknown,No Code,Unknown Reason,1
+2015,MA,Revere,Unknown,No Code,Unknown Reason,1
+2015,MA,Scituate,Unknown,72892002,Normal pregnancy,1
+2015,MA,South Amherst,Unknown,No Code,Unknown Reason,1
+2015,MA,Southborough,Unknown,No Code,Unknown Reason,1
+2015,MA,Swansea,Unknown,No Code,Unknown Reason,1
+2015,MA,Westborough,Unknown,No Code,Unknown Reason,1
+2015,MA,Westwood,Unknown,72892002,Normal pregnancy,1
+2014,MA,Springfield,01013,No Code,Unknown Reason,1
+2014,MA,Springfield,01103,233678006,Childhood asthma,1
+2014,MA,Springfield,01103,No Code,Unknown Reason,1
+2014,MA,Springfield,01118,No Code,Unknown Reason,1
+2014,MA,Springfield,01128,72892002,Normal pregnancy,1
+2014,MA,North Adams,01247,72892002,Normal pregnancy,1
+2014,MA,Groton,01450,No Code,Unknown Reason,1
+2014,MA,Upton,01568,72892002,Normal pregnancy,1
+2014,MA,Worcester,01606,72892002,Normal pregnancy,1
+2014,MA,Worcester,01609,No Code,Unknown Reason,1
+2014,MA,Hudson,01749,72892002,Normal pregnancy,1
+2014,MA,Haverhill,01830,72892002,Normal pregnancy,1
+2014,MA,Methuen,01844,195967001,Asthma,1
+2014,MA,Lowell,01854,55680006,Drug overdose,1
+2014,MA,Saugus,01906,No Code,Unknown Reason,1
+2014,MA,Lynn,01907,95417003,Primary fibromyalgia syndrome,1
+2014,MA,Beverly,01915,No Code,Unknown Reason,1
+2014,MA,Peabody,01940,No Code,Unknown Reason,1
+2014,MA,Salisbury,01952,91302008,Sepsis (disorder),1
+2014,MA,Franklin,02038,No Code,Unknown Reason,1
+2014,MA,Boston,02108,No Code,Unknown Reason,1
+2014,MA,Boston,02116,No Code,Unknown Reason,2
+2014,MA,Boston,02129,72892002,Normal pregnancy,1
+2014,MA,Cambridge,02142,No Code,Unknown Reason,1
+2014,MA,Quincy,02170,55680006,Drug overdose,1
+2014,MA,Quincy,02170,No Code,Unknown Reason,1
+2014,MA,Quincy,02171,No Code,Unknown Reason,12
+2014,MA,Boston,02210,No Code,Unknown Reason,1
+2014,MA,Brockton,02301,233678006,Childhood asthma,1
+2014,MA,Newton,02462,No Code,Unknown Reason,1
+2014,MA,Barnstable,02635,No Code,Unknown Reason,1
+2014,MA,Fall River,02721,No Code,Unknown Reason,1
+2014,MA,Attleboro,02861,No Code,Unknown Reason,1
+2014,MA,Burlington,Unknown,55680006,Drug overdose,2
+2014,MA,Marion,Unknown,88805009,Chronic congestive heart failure (disorder),2
+2014,MA,Acton,Unknown,233678006,Childhood asthma,1
+2014,MA,Acushnet,Unknown,No Code,Unknown Reason,1
+2014,MA,Amherst,Unknown,No Code,Unknown Reason,1
+2014,MA,Arlington,Unknown,No Code,Unknown Reason,1
+2014,MA,Barnstable,Unknown,No Code,Unknown Reason,1
+2014,MA,Burlington,Unknown,No Code,Unknown Reason,1
+2014,MA,Chesterfield,Unknown,No Code,Unknown Reason,1
+2014,MA,Great Barrington,Unknown,No Code,Unknown Reason,1
+2014,MA,Holliston,Unknown,72892002,Normal pregnancy,1
+2014,MA,Hudson,Unknown,No Code,Unknown Reason,1
+2014,MA,Malden,Unknown,No Code,Unknown Reason,1
+2014,MA,Mattapoisett,Unknown,72892002,Normal pregnancy,1
+2014,MA,Middleborough Center,Unknown,No Code,Unknown Reason,1
+2014,MA,Milton,Unknown,72892002,Normal pregnancy,1
+2014,MA,Natick,Unknown,55680006,Drug overdose,1
+2014,MA,Needham,Unknown,55680006,Drug overdose,1
+2014,MA,Northbridge,Unknown,No Code,Unknown Reason,1
+2014,MA,Norton,Unknown,No Code,Unknown Reason,1
+2014,MA,Peabody,Unknown,No Code,Unknown Reason,1
+2014,MA,Pembroke,Unknown,No Code,Unknown Reason,1
+2014,MA,Rehoboth,Unknown,No Code,Unknown Reason,1
+2014,MA,Rockland,Unknown,No Code,Unknown Reason,1
+2014,MA,Salem,Unknown,No Code,Unknown Reason,1
+2014,MA,Scituate,Unknown,72892002,Normal pregnancy,1
+2014,MA,Seekonk,Unknown,No Code,Unknown Reason,1
+2014,MA,Somerset,Unknown,No Code,Unknown Reason,1
+2014,MA,Southborough,Unknown,No Code,Unknown Reason,1
+2014,MA,Southbridge,Unknown,233678006,Childhood asthma,1
+2014,MA,West Springfield,Unknown,No Code,Unknown Reason,1
+2013,MA,Agawam,01001,No Code,Unknown Reason,1
+2013,MA,Hatfield,01038,No Code,Unknown Reason,1
+2013,MA,Holyoke,01040,55680006,Drug overdose,1
+2013,MA,Holyoke,01040,No Code,Unknown Reason,1
+2013,MA,Palmer,01079,72892002,Normal pregnancy,1
+2013,MA,Westfield,01085,No Code,Unknown Reason,1
+2013,MA,Springfield,01103,233678006,Childhood asthma,1
+2013,MA,Springfield,01106,No Code,Unknown Reason,1
+2013,MA,Worcester,01609,No Code,Unknown Reason,1
+2013,MA,Bedford,01730,No Code,Unknown Reason,1
+2013,MA,Milford,01757,No Code,Unknown Reason,1
+2013,MA,Haverhill,01830,72892002,Normal pregnancy,1
+2013,MA,Lowell,01851,No Code,Unknown Reason,2
+2013,MA,Lowell,01851,55680006,Drug overdose,1
+2013,MA,Lynn,01902,No Code,Unknown Reason,1
+2013,MA,Lynn,01907,65275009,Acute Cholecystitis,1
+2013,MA,Beverly,01915,72892002,Normal pregnancy,1
+2013,MA,Gloucester,01930,72892002,Normal pregnancy,1
+2013,MA,Gloucester,01930,No Code,Unknown Reason,1
+2013,MA,Peabody,01960,No Code,Unknown Reason,1
+2013,MA,Boston,02116,No Code,Unknown Reason,7
+2013,MA,Cambridge,02138,No Code,Unknown Reason,1
+2013,MA,Somerville,02138,No Code,Unknown Reason,1
+2013,MA,Revere,02151,No Code,Unknown Reason,1
+2013,MA,Quincy,02170,55680006,Drug overdose,1
+2013,MA,Quincy,02171,No Code,Unknown Reason,14
+2013,MA,Braintree,02184,72892002,Normal pregnancy,1
+2013,MA,Boston,02199,72892002,Normal pregnancy,1
+2013,MA,Boston,02210,72892002,Normal pregnancy,1
+2013,MA,Boston,02215,No Code,Unknown Reason,1
+2013,MA,Brockton,02301,No Code,Unknown Reason,2
+2013,MA,Lexington,02420,72892002,Normal pregnancy,1
+2013,MA,Waltham,02453,72892002,Normal pregnancy,1
+2013,MA,Wellesley,02457,72892002,Normal pregnancy,1
+2013,MA,Newton,02459,No Code,Unknown Reason,1
+2013,MA,Buzzards Bay,02542,195967001,Asthma,1
+2013,MA,Fall River,02721,No Code,Unknown Reason,2
+2013,MA,Somerset,02726,No Code,Unknown Reason,1
+2013,MA,Needham,Unknown,55680006,Drug overdose,2
+2013,MA,Acushnet,Unknown,72892002,Normal pregnancy,1
+2013,MA,Agawam,Unknown,72892002,Normal pregnancy,1
+2013,MA,Amherst,Unknown,No Code,Unknown Reason,1
+2013,MA,Attleboro,Unknown,No Code,Unknown Reason,1
+2013,MA,Barnstable,Unknown,No Code,Unknown Reason,1
+2013,MA,Bourne,Unknown,No Code,Unknown Reason,1
+2013,MA,Brockton,Unknown,No Code,Unknown Reason,1
+2013,MA,Concord,Unknown,No Code,Unknown Reason,1
+2013,MA,Duxbury,Unknown,No Code,Unknown Reason,1
+2013,MA,Fall River,Unknown,No Code,Unknown Reason,1
+2013,MA,Great Barrington,Unknown,233678006,Childhood asthma,1
+2013,MA,Lowell,Unknown,72892002,Normal pregnancy,1
+2013,MA,Malden,Unknown,No Code,Unknown Reason,1
+2013,MA,Milford,Unknown,No Code,Unknown Reason,1
+2013,MA,Natick,Unknown,No Code,Unknown Reason,1
+2013,MA,Newbury,Unknown,No Code,Unknown Reason,1
+2013,MA,Northbridge,Unknown,No Code,Unknown Reason,1
+2013,MA,Raynham,Unknown,No Code,Unknown Reason,1
+2013,MA,Sandwich,Unknown,No Code,Unknown Reason,1
+2013,MA,Southborough,Unknown,233678006,Childhood asthma,1
+2012,MA,Chicopee,01013,No Code,Unknown Reason,1
+2012,MA,Holyoke,01040,195967001,Asthma,1
+2012,MA,Holyoke,01040,55680006,Drug overdose,1
+2012,MA,Holyoke,01040,No Code,Unknown Reason,1
+2012,MA,Westfield,01085,55680006,Drug overdose,1
+2012,MA,Springfield,01128,72892002,Normal pregnancy,1
+2012,MA,South Deerfield,01373,55680006,Drug overdose,1
+2012,MA,Winchendon,01475,No Code,Unknown Reason,1
+2012,MA,Whitinsville,01588,72892002,Normal pregnancy,1
+2012,MA,Framingham,01701,72892002,Normal pregnancy,1
+2012,MA,Framingham,01701,No Code,Unknown Reason,1
+2012,MA,Milford,01757,No Code,Unknown Reason,1
+2012,MA,Methuen,01841,No Code,Unknown Reason,1
+2012,MA,Lowell,01851,55680006,Drug overdose,1
+2012,MA,Woburn,01890,No Code,Unknown Reason,1
+2012,MA,Lynn,01907,No Code,Unknown Reason,2
+2012,MA,Lynn,01907,72892002,Normal pregnancy,1
+2012,MA,Lynn,01907,95417003,Primary fibromyalgia syndrome,1
+2012,MA,Wakefield,01940,No Code,Unknown Reason,1
+2012,MA,Peabody,01960,No Code,Unknown Reason,1
+2012,MA,Bellingham,02019,No Code,Unknown Reason,1
+2012,MA,Boston,02110,No Code,Unknown Reason,1
+2012,MA,Boston,02116,No Code,Unknown Reason,1
+2012,MA,Boston,02125,No Code,Unknown Reason,1
+2012,MA,Boston,02129,72892002,Normal pregnancy,1
+2012,MA,Boston,02131,No Code,Unknown Reason,1
+2012,MA,Boston,02135,No Code,Unknown Reason,1
+2012,MA,Cambridge,02138,No Code,Unknown Reason,1
+2012,MA,Everett,02149,No Code,Unknown Reason,1
+2012,MA,Revere,02151,No Code,Unknown Reason,1
+2012,MA,Boston,02152,55680006,Drug overdose,1
+2012,MA,Quincy,02169,No Code,Unknown Reason,1
+2012,MA,Quincy,02171,No Code,Unknown Reason,9
+2012,MA,Braintree,02184,No Code,Unknown Reason,1
+2012,MA,Weymouth,02190,72892002,Normal pregnancy,1
+2012,MA,Brookline,02215,72892002,Normal pregnancy,1
+2012,MA,Brookline,02215,No Code,Unknown Reason,1
+2012,MA,Brockton,02301,No Code,Unknown Reason,1
+2012,MA,Plymouth,02360,No Code,Unknown Reason,1
+2012,MA,Waltham,02453,195967001,Asthma,1
+2012,MA,Fall River,02721,No Code,Unknown Reason,7
+2012,MA,Concord,Unknown,No Code,Unknown Reason,2
+2012,MA,Acton,Unknown,233678006,Childhood asthma,1
+2012,MA,Amherst,Unknown,No Code,Unknown Reason,1
+2012,MA,Braintree,Unknown,No Code,Unknown Reason,1
+2012,MA,Burlington,Unknown,No Code,Unknown Reason,1
+2012,MA,Chelmsford,Unknown,No Code,Unknown Reason,1
+2012,MA,Chesterfield,Unknown,No Code,Unknown Reason,1
+2012,MA,Dartmouth,Unknown,No Code,Unknown Reason,1
+2012,MA,Dennis,Unknown,No Code,Unknown Reason,1
+2012,MA,Easton,Unknown,No Code,Unknown Reason,1
+2012,MA,Fairhaven,Unknown,No Code,Unknown Reason,1
+2012,MA,Foxborough,Unknown,No Code,Unknown Reason,1
+2012,MA,Holbrook,Unknown,72892002,Normal pregnancy,1
+2012,MA,Holliston,Unknown,72892002,Normal pregnancy,1
+2012,MA,Holyoke,Unknown,195967001,Asthma,1
+2012,MA,Marblehead,Unknown,72892002,Normal pregnancy,1
+2012,MA,Melrose,Unknown,No Code,Unknown Reason,1
+2012,MA,Natick,Unknown,55680006,Drug overdose,1
+2012,MA,Natick,Unknown,No Code,Unknown Reason,1
+2012,MA,North Plymouth,Unknown,No Code,Unknown Reason,1
+2012,MA,Northborough,Unknown,No Code,Unknown Reason,1
+2012,MA,Northwest Harwich,Unknown,No Code,Unknown Reason,1
+2012,MA,Rehoboth,Unknown,No Code,Unknown Reason,1
+2012,MA,Salem,Unknown,No Code,Unknown Reason,1
+2012,MA,Scituate,Unknown,72892002,Normal pregnancy,1
+2012,MA,Shrewsbury,Unknown,No Code,Unknown Reason,1
+2012,MA,Weymouth,Unknown,72892002,Normal pregnancy,1
+2012,MA,Williamsburg,Unknown,No Code,Unknown Reason,1
+2011,MA,Chicopee,01013,74400008,Appendicitis,1
+2011,MA,Holyoke,01040,55680006,Drug overdose,2
+2011,MA,Lawrence,01840,No Code,Unknown Reason,1
+2011,MA,Lowell,01854,55680006,Drug overdose,1
+2011,MA,Lowell,01854,No Code,Unknown Reason,1
+2011,MA,Franklin,02038,74400008,Appendicitis,1
+2011,MA,Boston,02116,No Code,Unknown Reason,1
+2011,MA,Cambridge,02142,128613002,Seizure disorder,2
+2011,MA,Quincy,02170,No Code,Unknown Reason,1
+2011,MA,Quincy,02171,No Code,Unknown Reason,11
+2011,MA,Brookline,02446,No Code,Unknown Reason,1
+2011,MA,Milton,Unknown,72892002,Normal pregnancy,1
+2011,MA,Raynham,Unknown,No Code,Unknown Reason,1
+2011,MA,Salem,Unknown,72892002,Normal pregnancy,1
+2011,MA,Swansea,Unknown,195967001,Asthma,1
+2010,MA,Worcester,01604,No Code,Unknown Reason,1
+2010,MA,Cambridge,02142,No Code,Unknown Reason,1
+2010,MA,Quincy,02170,No Code,Unknown Reason,1
+2010,MA,Quincy,02171,No Code,Unknown Reason,11
+2010,MA,Amherst,Unknown,91302008,Sepsis (disorder),1
+2010,MA,Natick,Unknown,55680006,Drug overdose,1
+2010,MA,Shrewsbury,Unknown,No Code,Unknown Reason,1
+2010,MA,Worcester,Unknown,No Code,Unknown Reason,1
+2009,MA,Holyoke,01040,55680006,Drug overdose,1
+2009,MA,Lawrence,01841,74400008,Appendicitis,1
+2009,MA,Boston,02114,128613002,Seizure disorder,1
+2009,MA,Quincy,02171,No Code,Unknown Reason,12
+2009,MA,Holyoke,Unknown,No Code,Unknown Reason,1
+2008,MA,South Deerfield,01373,55680006,Drug overdose,1
+2008,MA,Worcester,01604,91302008,Sepsis (disorder),1
+2008,MA,Burlington,01803,55680006,Drug overdose,1
+2008,MA,Burlington,01803,No Code,Unknown Reason,1
+2008,MA,Woburn,01890,No Code,Unknown Reason,1
+2008,MA,Wakefield,01940,No Code,Unknown Reason,1
+2008,MA,Somerville,02143,88805009,Chronic congestive heart failure (disorder),1
+2008,MA,Quincy,02170,No Code,Unknown Reason,1
+2008,MA,Quincy,02171,No Code,Unknown Reason,14
+2008,MA,Barnstable,02655,No Code,Unknown Reason,1
+2008,MA,Mansfield Center,Unknown,74400008,Appendicitis,1
+2008,MA,Raynham,Unknown,No Code,Unknown Reason,1
+2007,MA,Quincy,02171,No Code,Unknown Reason,12
+2007,MA,Shrewsbury,Unknown,No Code,Unknown Reason,1
+2007,MA,Yarmouth,Unknown,162573006,Suspected lung cancer (situation),1
+2006,MA,Burlington,01803,No Code,Unknown Reason,1
+2006,MA,Quincy,02169,No Code,Unknown Reason,1
+2006,MA,Quincy,02170,No Code,Unknown Reason,1
+2006,MA,Quincy,02171,No Code,Unknown Reason,3
+2006,MA,Waltham,02472,No Code,Unknown Reason,1
+2006,MA,Natick,Unknown,55680006,Drug overdose,1
+2005,MA,Beverly,01915,72892002,Normal pregnancy,1
+2005,MA,Quincy,02170,No Code,Unknown Reason,1
+2005,MA,Bourne,02532,91302008,Sepsis (disorder),1
+2005,MA,Hingham,Unknown,74400008,Appendicitis,1
+2005,MA,Salem,Unknown,No Code,Unknown Reason,1
+2005,MA,Westwood,Unknown,72892002,Normal pregnancy,1
+2005,MA,Woburn,Unknown,91302008,Sepsis (disorder),1
+2004,MA,Boston,02125,No Code,Unknown Reason,1
+2004,MA,Weymouth,02190,74400008,Appendicitis,1
+2004,MA,Natick,Unknown,55680006,Drug overdose,1
+2004,MA,Woburn,Unknown,72892002,Normal pregnancy,1
+2003,MA,Haverhill,01830,No Code,Unknown Reason,1
+2003,MA,Woburn,01890,No Code,Unknown Reason,1
+2003,MA,Quincy,02169,No Code,Unknown Reason,1
+2003,MA,Quincy,02170,No Code,Unknown Reason,1
+2003,MA,Brockton,02301,128613002,Seizure disorder,3
+2003,MA,Plymouth,02360,128613002,Seizure disorder,2
+2003,MA,Northborough,Unknown,No Code,Unknown Reason,1
+2003,MA,Woburn,Unknown,72892002,Normal pregnancy,1
+2002,MA,Clinton,01510,74400008,Appendicitis,1
+2002,MA,Boston,02134,No Code,Unknown Reason,1
+2002,MA,Belmont,02472,55680006,Drug overdose,1
+2002,MA,Charlton,Unknown,88805009,Chronic congestive heart failure (disorder),2
+2002,MA,Bourne,Unknown,128613002,Seizure disorder,1
+2001,MA,Winchendon,01475,No Code,Unknown Reason,1
+2001,MA,Burlington,01803,55680006,Drug overdose,1
+2001,MA,Wakefield,01880,No Code,Unknown Reason,1
+2001,MA,Needham,Unknown,55680006,Drug overdose,1
+2001,MA,Sudbury,Unknown,No Code,Unknown Reason,1
+2000,MA,Springfield,01013,72892002,Normal pregnancy,1
+2000,MA,Holyoke,01040,72892002,Normal pregnancy,1
+2000,MA,Westfield,01085,55680006,Drug overdose,1
+2000,MA,Worcester,01602,91302008,Sepsis (disorder),1
+2000,MA,Burlington,01803,55680006,Drug overdose,1
+2000,MA,Burlington,01803,No Code,Unknown Reason,1
+2000,MA,Lowell,01851,55680006,Drug overdose,1
+2000,MA,Everett,Unknown,91302008,Sepsis (disorder),1
+2000,MA,Pembroke,Unknown,No Code,Unknown Reason,1
+1999,MA,Holyoke,01040,128613002,Seizure disorder,1
+1999,MA,Lowell,01854,72892002,Normal pregnancy,1
+1999,MA,Boston,02131,74400008,Appendicitis,1
+1999,MA,Boston,02152,No Code,Unknown Reason,1
+1998,MA,South Deerfield,01373,55680006,Drug overdose,1
+1998,MA,Lowell,01851,74400008,Appendicitis,1
+1998,MA,Burlington,Unknown,55680006,Drug overdose,1
+1998,MA,Greenfield,Unknown,55680006,Drug overdose,1
+1998,MA,Malden,Unknown,No Code,Unknown Reason,1
+1997,MA,Holyoke,01040,128613002,Seizure disorder,1
+1997,MA,Lowell,01854,55680006,Drug overdose,1
+1997,MA,Dedham,02026,No Code,Unknown Reason,1
+1997,MA,Boston,02124,88805009,Chronic congestive heart failure (disorder),2
+1997,MA,Burlington,Unknown,55680006,Drug overdose,1
+1997,MA,Charlton,Unknown,No Code,Unknown Reason,1
+1997,MA,Lowell,Unknown,72892002,Normal pregnancy,1
+1997,MA,Woburn,Unknown,72892002,Normal pregnancy,1
+1996,MA,Lynn,01906,128613002,Seizure disorder,2
+1996,MA,Boston,02124,88805009,Chronic congestive heart failure (disorder),1
+1996,MA,Boston,02152,55680006,Drug overdose,1
+1996,MA,Plymouth,02360,74400008,Appendicitis,1
+1996,MA,Newton,02462,74400008,Appendicitis,1
+1996,MA,Charlton,Unknown,No Code,Unknown Reason,1
+1996,MA,Natick,Unknown,55680006,Drug overdose,1
+1996,MA,North Plymouth,Unknown,74400008,Appendicitis,1
+1995,MA,South Deerfield,01373,55680006,Drug overdose,1
+1995,MA,Boston,02134,No Code,Unknown Reason,1
+1995,MA,Methuen,Unknown,88805009,Chronic congestive heart failure (disorder),1
+1994,MA,Westfield,01085,No Code,Unknown Reason,2
+1994,MA,Boston,02124,No Code,Unknown Reason,2
+1994,MA,Somerville,02138,128613002,Seizure disorder,1
+1994,MA,Brookline,02215,74400008,Appendicitis,1
+1994,MA,Somerset,02726,91302008,Sepsis (disorder),1
+1994,MA,Dennis,Unknown,No Code,Unknown Reason,1
+1994,MA,Natick,Unknown,55680006,Drug overdose,1
+1994,MA,Wales,Unknown,55680006,Drug overdose,1
+1993,MA,Westfield,01085,55680006,Drug overdose,1
+1993,MA,Boston,02115,No Code,Unknown Reason,1
+1993,MA,Quincy,02170,55680006,Drug overdose,1
+1993,MA,Franklin,Unknown,91302008,Sepsis (disorder),1
+1993,MA,Methuen,Unknown,88805009,Chronic congestive heart failure (disorder),1
+1993,MA,Natick,Unknown,55680006,Drug overdose,1
+1993,MA,Raynham,Unknown,72892002,Normal pregnancy,1
+1993,MA,Watertown,Unknown,No Code,Unknown Reason,1
+1992,MA,Westfield,01085,No Code,Unknown Reason,1
+1992,MA,Northborough,01532,88805009,Chronic congestive heart failure (disorder),1
+1992,MA,Newton,02462,72892002,Normal pregnancy,1
+1992,MA,Watertown,Unknown,233678006,Childhood asthma,1
+1991,MA,Northborough,01532,88805009,Chronic congestive heart failure (disorder),1
+1991,MA,Northwest Harwich,Unknown,74400008,Appendicitis,1
+1991,MA,Pembroke,Unknown,No Code,Unknown Reason,1
+1990,MA,Boston,02115,No Code,Unknown Reason,1
+1990,MA,Boston,02130,No Code,Unknown Reason,1
+1990,MA,Somerville,02138,72892002,Normal pregnancy,1
+1990,MA,Somerville,02138,No Code,Unknown Reason,1
+1990,MA,Quincy,02170,88805009,Chronic congestive heart failure (disorder),1
+1990,MA,Fall River,02721,No Code,Unknown Reason,1
+1990,MA,Middleborough Center,Unknown,No Code,Unknown Reason,1
+1990,MA,Milford,Unknown,128613002,Seizure disorder,1
+1990,MA,Natick,Unknown,128613002,Seizure disorder,1
+1990,MA,Raynham,Unknown,72892002,Normal pregnancy,1
+1989,MA,Holliston,Unknown,128613002,Seizure disorder,1
+1989,MA,Natick,Unknown,No Code,Unknown Reason,1
+1989,MA,Pembroke,Unknown,162573006,Suspected lung cancer (situation),1
+1989,MA,Raynham,Unknown,No Code,Unknown Reason,1
+1989,MA,Wakefield,Unknown,162573006,Suspected lung cancer (situation),1
+1988,MA,Boston,02129,No Code,Unknown Reason,1
+1988,MA,Somerville,02144,128613002,Seizure disorder,1
+1987,MA,Woburn,Unknown,No Code,Unknown Reason,1
+1986,MA,Swansea,Unknown,No Code,Unknown Reason,1
+1986,MA,Watertown,Unknown,233678006,Childhood asthma,1
+1985,MA,Woburn,01890,No Code,Unknown Reason,1
+1985,MA,Carver,Unknown,No Code,Unknown Reason,1
+1984,MA,Boston,02135,No Code,Unknown Reason,1
+1984,MA,Quincy,02186,91302008,Sepsis (disorder),1
+1983,MA,Haverhill,01830,No Code,Unknown Reason,1
+1982,MA,Quincy,02171,No Code,Unknown Reason,1
+1982,MA,Milford,Unknown,No Code,Unknown Reason,1
+1981,MA,Boston,02113,128613002,Seizure disorder,1
+1981,MA,Quincy,02170,No Code,Unknown Reason,1
+1981,MA,Raynham,Unknown,72892002,Normal pregnancy,1
+1981,MA,Scituate,Unknown,74400008,Appendicitis,1
+1980,MA,Hingham,Unknown,128613002,Seizure disorder,1
+1980,MA,Raynham,Unknown,No Code,Unknown Reason,1
+1978,MA,Quincy,02169,74400008,Appendicitis,1
+1978,MA,Braintree,Unknown,No Code,Unknown Reason,1
+1977,MA,Boston,02130,128613002,Seizure disorder,1
+1977,MA,Boston,02135,No Code,Unknown Reason,1
+1977,MA,Bourne,02532,128613002,Seizure disorder,1
+1976,MA,Milford,01757,No Code,Unknown Reason,1
+1976,MA,Brockton,02351,72892002,Normal pregnancy,1
+1974,MA,Palmer,01095,No Code,Unknown Reason,1
+1974,MA,Fall River,02721,74400008,Appendicitis,1
+1974,MA,Needham,Unknown,128613002,Seizure disorder,1
+1973,MA,Palmer,01095,128613002,Seizure disorder,1
+1973,MA,Boston,02135,No Code,Unknown Reason,1
+1973,MA,Salem,Unknown,128613002,Seizure disorder,1
+1973,MA,Wakefield,Unknown,No Code,Unknown Reason,1
+1972,MA,Worcester,01609,72892002,Normal pregnancy,1
+1972,MA,Foxborough,Unknown,72892002,Normal pregnancy,1
+1972,MA,Swansea,Unknown,74400008,Appendicitis,1
+1971,MA,Lowell,01854,128613002,Seizure disorder,2
+1971,MA,Boston,02152,74400008,Appendicitis,1
+1970,MA,Duxbury,02332,No Code,Unknown Reason,1
+1970,MA,Belmont,02472,74400008,Appendicitis,1
+1968,MA,Wakefield,Unknown,No Code,Unknown Reason,1
+1966,MA,Wakefield,Unknown,74400008,Appendicitis,1
+1964,MA,Scituate,Unknown,No Code,Unknown Reason,1
+1963,MA,Yarmouth,Unknown,128613002,Seizure disorder,1
+1961,MA,Springfield,01128,No Code,Unknown Reason,1
+1960,MA,Danvers,Unknown,No Code,Unknown Reason,1
+1958,MA,Dennis,Unknown,74400008,Appendicitis,1
+1958,MA,Malden,Unknown,No Code,Unknown Reason,1
+1958,MA,Merrimac,Unknown,No Code,Unknown Reason,1
+1957,MA,Quincy,02170,72892002,Normal pregnancy,1
+1954,MA,Boston,02203,No Code,Unknown Reason,1
+1954,MA,Middleborough Center,Unknown,No Code,Unknown Reason,1
+1952,MA,Lowell,01851,74400008,Appendicitis,1
+1952,MA,Brockton,02351,72892002,Normal pregnancy,1
+1952,MA,Everett,Unknown,128613002,Seizure disorder,1
+1951,MA,Malden,Unknown,No Code,Unknown Reason,1
+1950,MA,Charlton,Unknown,74400008,Appendicitis,1
+1948,MA,Boston,02203,91302008,Sepsis (disorder),1
+1945,MA,Burlington,01803,No Code,Unknown Reason,1
+1945,MA,Middleborough Center,Unknown,128613002,Seizure disorder,1
+1945,MA,Middleborough Center,Unknown,No Code,Unknown Reason,1
+1944,MA,Bourne,Unknown,No Code,Unknown Reason,1
+1944,MA,Middleborough Center,Unknown,233678006,Childhood asthma,1
+1944,MA,Wakefield,Unknown,No Code,Unknown Reason,1
+1942,MA,Quincy,02186,91302008,Sepsis (disorder),1
+1942,MA,Middleborough Center,Unknown,233678006,Childhood asthma,1
+1941,MA,Middleborough Center,Unknown,233678006,Childhood asthma,1
+1941,MA,Wakefield,Unknown,No Code,Unknown Reason,1
+1940,MA,Quincy,02186,72892002,Normal pregnancy,1
+1937,MA,Quincy,02186,72892002,Normal pregnancy,1
+1931,MA,Boston,02129,74400008,Appendicitis,1
+1929,MA,Quincy,02170,128613002,Seizure disorder,1
+1921,MA,Quincy,02171,128613002,Seizure disorder,1
+1921,MA,Quincy,02171,No Code,Unknown Reason,1
